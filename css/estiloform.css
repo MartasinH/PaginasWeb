@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+form{
+    width: 400px;
+    padding: 32px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    margin: 32;
+    background-color: #b2ccff;
+}
+input[type="texto"],select,textarea{
+    display: block;
+    padding: 4px 8px;
+    width: 100%;
+    margin: 8px 0;
+}
+textarea {
+    height: 96px;
+    resize: none;
+}
+
+mark {
+    float: right;
+}
+
+
