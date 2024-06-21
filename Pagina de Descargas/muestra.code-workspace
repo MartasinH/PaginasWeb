@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../muestra"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Pagina de Descargas"
+	}
+}
